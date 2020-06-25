@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: samri
+Build-Jdk: 12.0.1
+Implementation-Title: microservice-demo
+Implementation-Version: 1.1.0.RELEASE
+Implementation-Vendor-Id: org.springframework.samples.service.service
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: io.pivotal.microservices.services.Main
+Created-By: Maven Integration for Eclipse
+
